@@ -312,4 +312,10 @@ body{
 }
 }
 
+@media (min-width: 1040px){
+  .hello {
+    height: 400px;
+  }
+}
+
 </style>
